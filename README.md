@@ -1,4 +1,3 @@
-# course-website-project
 # 📚 Course Website - Basic HTML Project
 
 This is a beginner-friendly static web page built using only HTML. The project simulates a simple course providing platform, showcasing different courses in a structured layout.
